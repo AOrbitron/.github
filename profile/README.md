@@ -1,5 +1,7 @@
 ## Hi there 👋
+Eridanus及相关衍生项目
 
+[QQ群](https://qm.qq.com/q/hjhSSnlBDi)  
 <!--
 
 **Here are some ideas to get you started:**
